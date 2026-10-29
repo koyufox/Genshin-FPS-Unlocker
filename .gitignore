@@ -1,0 +1,8 @@
+/output/
+/build/
+__pycache__/
+*.pyc
+node_modules/
+/rust/target/
+/docs/
+/CONTEXT.md

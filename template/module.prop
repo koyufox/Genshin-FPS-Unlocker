@@ -1,0 +1,6 @@
+id=genshin-fps-unlocker-zygisk
+name=Genshin FPS Unlocker
+version=@VERSION@
+versionCode=@VERSION_CODE@
+author=koyufox
+description=Status: enabled
